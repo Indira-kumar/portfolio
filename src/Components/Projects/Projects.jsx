@@ -29,7 +29,7 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src="https://i.ibb.co/V9C8Jm9/rockstar-games.png"
+                    src="https://i.ibb.co/rptzPw3/chrome-TC3-CSol3-Oq.jpg"
                     alt="Rockstar Games"
                   />
                 </div>
