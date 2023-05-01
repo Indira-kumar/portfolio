@@ -24,7 +24,7 @@ export const Projects = () => {
       <div className="section">
         <h2 className="section__title different">Projects</h2>
         <p className="about__desc">
-        All the other Projects are yet to be updated here... You could find them in my GitHub profile
+        More other Projects are yet to be updated here. You could find them in my GitHub profile.
         </p>
         <div className="allProjects">
           <div className="projects_container" data-aos="fade-right">
@@ -45,10 +45,8 @@ export const Projects = () => {
                 <div>
                 <div class="tags">
                      <ul class="flex" id="technologies">
-                     <li> express </li>
+                     <li> Firebase </li>
                      <li> React </li>
-                     <li> Node </li>
-                     <li> Mongo </li>
                      </ul>
                   </div>
                 </div>
@@ -76,13 +74,13 @@ export const Projects = () => {
             </div>
           </div>
           
-          {/* <div className="projects_container" data-aos="fade-right">
+          <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src=""
-                    alt="Rockstar Games"
+                    src="https://i.ibb.co/wg6wPNT/Best-doc-app.png"
+                    alt="Issue Raiser"
                   />
                 </div>
               </div>
@@ -94,7 +92,7 @@ export const Projects = () => {
                 <div>
                 <div class="tags">
                      <ul class="flex" id="technologies">
-                     <li> express </li>
+                     <li> Express </li>
                      <li> React </li>
                      <li> Node </li>
                      <li> Mongo </li>
@@ -102,7 +100,7 @@ export const Projects = () => {
                   </div>
                 </div>
                 <div>
-                  <a
+                  {/* <a
                     href="https://store-rockstargames.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
@@ -110,7 +108,7 @@ export const Projects = () => {
                     <span type="button" className="btns onbt onbt">
                       See this Live
                     </span>
-                  </a>
+                  </a> */}
                   <a
                     href="https://github.com/Indira-kumar/IssueRaiser/tree/feature"
                     target="_blank"
@@ -123,7 +121,7 @@ export const Projects = () => {
                 </div>
               </div>
             </div>
-          </div> */}
+          </div>
           
         </div>
       </div>
