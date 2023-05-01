@@ -111,6 +111,13 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
+.about__desc {
+  font-size: 1rem;
+  max-width: 70%;
+  text-align: center;
+  margin-top: 2.4em;
+}
+
 .project {
     border: 2px solid var(--clr-primary);
     flex-direction: column;

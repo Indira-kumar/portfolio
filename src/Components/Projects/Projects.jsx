@@ -24,13 +24,17 @@ export const Projects = () => {
       <div className="section">
         <h2 className="section__title different">Projects</h2>
         <div className="allProjects">
+
+        <p className="about__desc">
+        All the other Projects are yet to be updated here... You could find them in my GitHub profile
+        </p>
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
                 <div>
                   <img
                     src="https://i.ibb.co/rptzPw3/chrome-TC3-CSol3-Oq.jpg"
-                    alt="Rockstar Games"
+                    alt="Speaker Ore"
                   />
                 </div>
               </div>
@@ -73,12 +77,12 @@ export const Projects = () => {
             </div>
           </div>
           
-          <div className="projects_container" data-aos="fade-right">
+          {/* <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src="https://i.ibb.co/V9C8Jm9/rockstar-games.png"
+                    src=""
                     alt="Rockstar Games"
                   />
                 </div>
@@ -99,7 +103,7 @@ export const Projects = () => {
                   </div>
                 </div>
                 <div>
-                  {/* <a
+                  <a
                     href="https://store-rockstargames.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
@@ -107,7 +111,7 @@ export const Projects = () => {
                     <span type="button" className="btns onbt onbt">
                       See this Live
                     </span>
-                  </a> */}
+                  </a>
                   <a
                     href="https://github.com/Indira-kumar/IssueRaiser/tree/feature"
                     target="_blank"
@@ -120,7 +124,7 @@ export const Projects = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           
         </div>
       </div>
