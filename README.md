@@ -1,8 +1,8 @@
-# Responsive Ajile Done Website
+# Indira Kumar's Portfolio Website
 <a name="readme-top"></a>
 # 📗 Table of Contents
 
-- [Responsive Ajile Done Website](#responsive-ajile-done-website)
+- [Indira Kumar's Portfolio Website](#indira-kumars-portfolio-website)
 - [📗 Table of Contents](#-table-of-contents)
   - [About the Project ](#about-the-project-)
   - [💫 Tech Stack Used](#-tech-stack-used)
