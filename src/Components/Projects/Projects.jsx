@@ -23,11 +23,10 @@ export const Projects = () => {
     <>
       <div className="section">
         <h2 className="section__title different">Projects</h2>
-        <div className="allProjects">
-
         <p className="about__desc">
         All the other Projects are yet to be updated here... You could find them in my GitHub profile
         </p>
+        <div className="allProjects">
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
