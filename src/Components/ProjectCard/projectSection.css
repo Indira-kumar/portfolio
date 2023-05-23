@@ -1,0 +1,16 @@
+.portfolio-card {
+    padding: 10%;
+    gap: 142px;
+}
+
+.portfolio-card {
+    flex-direction: column;
+    align-items: center;
+    padding: 114px 24px;
+    padding-top: 50px;
+    gap: 88px;
+    background-color: transparent;
+}
+.flex {
+    display: flex;
+}
