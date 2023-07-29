@@ -1,7 +1,6 @@
 import React from 'react';
 import ProjectCard from './ProjectCard';
 import "./projectSection.css";
-import cargogoScreenshot from './images/cargogo.png';
 import musicanaScreenshot from './images/musicana.png';
 import microverseFestScreenshot from './images/math-magician.png';
 const ProjectSection = () => {
@@ -46,7 +45,7 @@ const ProjectSection = () => {
            screenshot: microverseFestScreenshot,
            description: `The project is based on an online website for a college cultural fest. It aids easy access to information related to all the events and allow hassle-free registration for students. The website is currently built with only two pages, Home and About, which gives enough idea about what the Microversity Folklore fiesta is, the location of the event and way to reach out in case of any query.`,
            skills: ['HTML5', 'CSS3', 'Bootstrap5'],
-           liveLink: 'https://riyabulia12.github.io/Microversity-Spring-Fest/',
+           liveLink: null,
            sourceLink: 'https://github.com/RiyaBulia12/Microversity-Spring-Fest'
         },
      ];

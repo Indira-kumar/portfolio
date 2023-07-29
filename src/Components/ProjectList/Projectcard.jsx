@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./projectList.css";
 const Projectcard = (project) => {
   return (
     <div className="project-container">

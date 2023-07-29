@@ -226,7 +226,25 @@ img{
   border: 3px solid var(--clr-primary);
   border-radius: 20px;
 }
+.source-container {
+  display: flex;
+  align-items: center;
+}
 
+.source-container .github-logo {
+  margin-left: 5px; /* Adjust the spacing between the text and the logo */
+  margin-top: 3px;
+  display: inline-block; /* Ensures the logo is treated as an inline element */
+  vertical-align: middle; /* Aligns the logo vertically in relation to the text */
+}
+.flex-column{
+  display: flex;
+  flex-direction: row;
+}
+.new-tab-btn {
+  margin-left: 10px;
+  size: 10px;
+}
 /* mobile.css */
 @media (max-width: 767px) {
     .project-container {
