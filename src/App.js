@@ -27,9 +27,6 @@ export default function App() {
         <About />
         <Github />
         <section id="#projects">
-          <Projects />
-        </section>
-        <section id="#project">
           <ProjectSection />
         </section> 
         <section id="#contact">

@@ -14,7 +14,7 @@ const ProjectCard = ({project}) => {
             <div className="image-wrapper">
                 <img src={project.screenshot} alt={project.title} className="project-img" />
                 <div className="overlay"></div>
-                <a href={project.liveLink} className="view-btn view-button" target='_blank'>Live Demo</a>
+                {project.liveLink ? <a href={project.liveLink} className="view-btn view-button" target='_blank'>Live Demo</a> : null}
             </div>
         </div>
         <div className="about-project flex">
