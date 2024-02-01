@@ -38,19 +38,25 @@ export const Introduction = () => {
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Freelancer{" "}
+                Barca Fan😍{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Reader{" "}
+                Freelancer🧑🏻‍💻{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Poet{" "}
+                Reader📖{" "}
+              </h4>
+              <h4 className="different">
+                <span className="icons">
+                  <ExitToAppIcon />
+                </span>
+                Poet📃{" "}
               </h4>
             </div>
           </div>
