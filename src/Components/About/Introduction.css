@@ -8,7 +8,9 @@
 .different {
   color: var(--clr-primary);
 }
-
+.underline {
+  text-decoration: underline;
+}
 .introduction_logocontainer {
   flex-basis: 45%;
   display: flex;

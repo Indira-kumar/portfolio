@@ -19,12 +19,11 @@ export const About = () => {
           Hello, I am <span className="about__name">Indira Kumar A K</span>
         </h1>
         <Type />
-        <p className="about__desc" data-aos="fade-right">
-
-
-I believe that a successful software developer is not just about technical skills, but also about attitude and work ethic. I am committed to delivering high-quality work, meeting deadlines, and continuously learning and improving my craft.
-
-Thank you for taking the time to learn a bit about me. I am excited to collaborate with you and help bring your vision to life!
+        <p className="about__desc" data-aos="">
+        I was in 6th grade when all this started. I wanted to create an Operating System because I just saw a documentary at that point about Bill Gates and Microsoft. I researched and then realised C language is used for building OS so I enrolled and studied C language at the nearest University available, YES all that in 6th grade!!! 
+        </p>
+        <p className="about__desc" data-aos="">
+        Two years passed, and I completed C++, and HTML along that journey, but still couldn't get anywhere near coding an Operating System, Then I realized I had to start building something instead of just learning so I did my first web page as a freelancing project in my 8th grade. 8 years passed since then, learned numerous languages, built numerous landing pages, and developed countable applications and I can say I still have that excitement for learning and building new things.
         </p>
         <div className="about__contact center">
           <a

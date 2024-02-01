@@ -31,7 +31,7 @@ export const Introduction = () => {
                 from{" "}
                 <span className="different">
                 Amrita School of Engineering, Bangalore
-                </span>. I am interested in software development and I like innovating things using code 
+                </span>. I am interested in software development and I like innovating things using code. Sometimes, I write <a className="different underline" href="https://medium.com/@indirakumarak" target="blank">blogs on tech here</a>.
               </h4>
               <h4>Terms That can describe me apart form Coding :</h4>
               <h4 className="different">
