@@ -11,7 +11,7 @@ export const Contact = () => {
 
   return (
     <>
-      <div className="section">
+      <div className="section-contact">
         <h2 className="section__title" data-aos="fade-right">
           Get in <span className="different">Touch</span>
         </h2>
