@@ -262,4 +262,10 @@ img{
     .project-container:nth-child(even) .project-img-container {
         order: 1;
       }
+      .project-img-container {
+        padding: 16px 8px;
+      }
+      .about-project {
+        padding: 16px;
+      }
   }
