@@ -78,7 +78,7 @@ Thank you for taking the time to learn a bit about me. I am excited to collabora
           className="btnResume"
           onClick={() => {
             window.open(
-              "https://drive.google.com/file/d/1H-X8HrClqzo4cLl5W8jdRF29jvRUCl8V/view?usp=sharing"
+              "https://drive.google.com/file/d/1gOq5CctDuxF3QTmPG-5VC-IN9P66DC1u/view?usp=sharing"
             );
           }}
         >
