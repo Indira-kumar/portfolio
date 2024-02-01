@@ -1,6 +1,6 @@
 import React from "react";
 import "./Techstacks.css";
-import { FaReact, FaNodeJs, FaAws } from "react-icons/fa";
+import { FaReact, FaNodeJs, FaAws, FaGolang } from "react-icons/fa";
 import {
   SiRedux,
   SiHtml5,
@@ -10,10 +10,11 @@ import {
   SiTailwindcss,
   SiNetlify
 } from "react-icons/si";
-import { DiCss3, DiMongodb } from "react-icons/di";
-import { SiJavascript, SiHeroku } from "react-icons/si";
+import { DiPostgresql , DiMongodb } from "react-icons/di";
+import { SiJavascript, SiSpringboot, SiFlask} from "react-icons/si";
 import { VscGithub } from "react-icons/vsc";
 import { BsBootstrap, BsWordpress } from "react-icons/bs";
+import { BiLogoGoLang } from "react-icons/bi";
 
 export const Techstacks = () => {
   return (
@@ -28,10 +29,6 @@ export const Techstacks = () => {
           <div>
             <SiHtml5 />
             <h5>HTML</h5>
-          </div>
-          <div>
-            <DiCss3 />
-            <h5>CSS</h5>
           </div>
           <div>
             <FaReact />
@@ -58,12 +55,20 @@ export const Techstacks = () => {
             <h5>Bootstrap</h5>
           </div>
           <div>
-            <SiHeroku />
-            <h5>Heroku</h5>
+            <SiSpringboot />
+            <h5>Spring Boot</h5>
           </div>
           <div>
             <VscGithub />
             <h5>Github</h5>
+          </div>
+          <div>
+            <DiPostgresql />
+            <h5>PostgreSQL</h5>
+          </div>
+          <div>
+            <SiFlask />
+            <h5>Flask</h5>
           </div>
         </div>
       </div>

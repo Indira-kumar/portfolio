@@ -46,6 +46,12 @@
   background-color: transparent;
 }
 
+@media (max-width: 800px) {
+  .techsection > div > svg {
+    font-size: 5vh;
+  }
+}
+
 @media (max-width: 600px) {
   .techsection {
     height: 120vh;
